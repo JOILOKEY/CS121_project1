@@ -7,7 +7,7 @@
 - [x] I hope to learn to become a better programmer 
 - **Something interesting about me** 
 - [x] My first coding language is Java
-- [x] I faild this class the first time, trying again to pass with a C or higher
+- [x] I failed this class the first time, trying again to pass with a C or higher
 ## favorite command
 my favorite commands are 
 ```
